@@ -11,6 +11,10 @@
     {
       "FROM": "science",
       "TO": "SCIE"
+    },
+    {
+      "FROM": "art",
+      "TO": "ART"
     }
   ],
   "COMP_BREAKDOWN_2": [
